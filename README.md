@@ -14,7 +14,7 @@ If you wish to encourage further development on things that matter to you, or ev
 
 ## Installation ##
 
-1. Download the [latest reviewed version](https://github.com/rt121212121/electron_cash_scheduled_payments_plugin/archive/b66eef86e98d7ea862bc05ecc19e866e81ab294f.zip).
+1. Download the [latest reviewed version](https://github.com/imaginaryusername/electron_cash_scheduled_payments_plugin/releases/download/v1.0.0.1/electron_cash_scheduled_payments_plugin-bfb19d796c76e78f2b955dd2ba4eae47.zip).
 2. Get the latest version of the Electron Cash code from github (make sure it has the Plugin Manager that allows addition of plugins).
 3. Either select `add plugin` or drag the zip file onto the plugin manager window.
 4. It will be installed, and enabled.
